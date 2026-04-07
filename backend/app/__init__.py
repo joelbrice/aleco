@@ -1,0 +1,1 @@
+"""Aleco backend package."""
